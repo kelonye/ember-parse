@@ -1,6 +1,6 @@
 {
   "name": "ember-parse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies":{
     "kelonye/ember-data":"1.0.0-beta.14.1"
   },
